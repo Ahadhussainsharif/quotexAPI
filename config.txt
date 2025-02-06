@@ -1,0 +1,18 @@
+[INFO]
+amount = 5
+asset = "EURUSD-otc", "AUDUSD-otc", "USDCHF-otc", "AUDJPY-otc", "USDCAD-otc", "EURGBP-otc", "GBPCAD-otc", "EURCAD-otc" 
+duration = 60 
+mode = "PRACTICE"
+
+#dependencias necessárias:
+
+#pip install shutup
+#pip install schedule
+#pip install yfinance
+#pip install pytest-playwright
+#playwright install
+
+
+
+
+
